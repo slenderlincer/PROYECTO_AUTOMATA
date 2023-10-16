@@ -15,23 +15,23 @@ const header = () => {
               </li>
               <li 
               className = 'p-2  font-bold border rounded bg-slate-200 hover:bg-slate-900 hover:text-white  text-black cursor-pointer uppercase'>
-              <Link href = {'http://localhost:3000/ejercicio01'}>Automata 01</Link>
+              <Link href = {'/ejercicio01'}>Automata 01</Link>
               </li>
               <li 
               className = 'p-2  font-bold border rounded bg-slate-200 hover:bg-slate-900 hover:text-white  text-black cursor-pointer uppercase'>
-              <Link href = {'http://localhost:3000/ejercicio02'}>Automata 02</Link>
+              <Link href = {'/ejercicio02'}>Automata 02</Link>
               </li>
               <li 
               className = 'p-2  font-bold border rounded bg-slate-200 hover:bg-slate-900 hover:text-white  text-black cursor-pointer uppercase'>
-              <Link href = {'http://localhost:3000/ejercicio03'}>Automata 03</Link>
+              <Link href = {'/ejercicio03'}>Automata 03</Link>
               </li>
               <li 
               className = 'p-2  font-bold border rounded bg-slate-200 hover:bg-slate-900 hover:text-white  text-black cursor-pointer uppercase'>
-              <Link href = {'http://localhost:3000/ejercicio04'}>Automata 04</Link>
+              <Link href = {'/ejercicio04'}>Automata 04</Link>
               </li>
               <li 
               className = 'p-2  font-bold border rounded bg-slate-200 hover:bg-slate-900 hover:text-white  text-black cursor-pointer uppercase'>
-              <Link href = {'http://localhost:3000/ejercicio05'}>Automata 05</Link>
+              <Link href = {'/ejercicio05'}>Automata 05</Link>
               </li>
             </ul>
           </nav>
